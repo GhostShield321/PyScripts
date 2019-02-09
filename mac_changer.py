@@ -1,4 +1,4 @@
-#Python Mac Address Changer.
+#Python Mac Address Changer Program.
 #Author: Othmane Ait Bouftass
 import os
 Interface = input("-Interface: ")
